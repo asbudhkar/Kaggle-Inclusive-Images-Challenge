@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import os
 import random, time
-import constants
+from ./constants import constants
 
 ALL_IMAGES = os.path.join(constants.IMAGE_DIR)
 TWENTYK_IMAGES = os.path.join(ALL_IMAGES, 'train_20k/')
