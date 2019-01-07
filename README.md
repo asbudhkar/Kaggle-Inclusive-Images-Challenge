@@ -1,5 +1,5 @@
 # Kaggle-Inclusive-Images-Challenge
-Solution for [Kaggle Inclusive images Challenge](https://www.kaggle.com/c/inclusive-images-challenge)
+Solution for [Kaggle Inclusive Images Challenge](https://www.kaggle.com/c/inclusive-images-challenge)
 
 ## Hardware
 - HPC prince cluster
@@ -35,9 +35,9 @@ python ResNet_train.py
 
 ## Data geneartion for training
 cd data_cleaning
-python prepare_data.py
-python weighted_sampling.py
-python visualize.py
+python prepare_data.py  
+python weighted_sampling.py  
+python visualize.py  
 
 
 
