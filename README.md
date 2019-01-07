@@ -27,6 +27,10 @@ The code assumes you have atleast one Nvidia GPU with CUDA 9 compatible driver a
 ## Space Requirement
 HDD: ~600 GB for Open Images Dataset
 
+## Training the model
+
+python ResNet_train.py
+
 
 
 
