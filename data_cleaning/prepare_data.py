@@ -27,6 +27,6 @@ for index, row in labels.iterrows():
                 training_dict[row[0]] = [row[2]]
                 count+=1
 # Save dictionary in file                
-with open('../training_dict.pickle', 'wb') as handle:
+with open('./training_dict.pickle', 'wb') as handle:
     pickle.dump(training_dict, handle, protocol=pickle.HIGHEST_PROTOCOL)
 print("Load finished")
