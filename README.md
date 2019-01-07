@@ -38,7 +38,3 @@ cd data_cleaning
 python prepare_data.py  
 python weighted_sampling.py  
 python visualize.py  
-
-
-
-
