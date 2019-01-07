@@ -57,6 +57,6 @@ if __name__=='__main__':
        with open('training_dict.pickle','rb') as total_labels:
                  total_human_labels_dict = get_weighted_sample(pickle.load \
                                                                (total_labels))
-                 with open ('human_labels_200_dict.pickle', 'wb') as final:
+                 with open ('../human_labels_200_dict.pickle', 'wb') as final:
                      pickle.dump(total_human_labels_dict, final)
 
