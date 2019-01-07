@@ -19,7 +19,7 @@ from sklearn.utils import shuffle
 import cv2
 
 # ResNet model
-from resnet1 import *
+from ./models/resnet1 import *
 
 import sklearn
 
