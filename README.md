@@ -34,7 +34,10 @@ sbatch run_ResNet.sh
 python ResNet_train.py
 
 ## Data geneartion for training
-
+cd data_cleaning
+python prepare_data.py
+python weighted_sampling.py
+python visualize.py
 
 
 
