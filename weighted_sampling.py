@@ -3,7 +3,7 @@
 import numpy as np
 import os,time
 from collections import Counter
-import constants
+from ./constants import constants 
 import random
 
 def weighted_sampling(inputs, weights, num_of_samples):
