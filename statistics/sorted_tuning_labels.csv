@@ -1,0 +1,485 @@
+label_code,label_counts,description
+/m/01g317,325,Person
+/m/05s2s,122,Plant
+/m/07j7r,109,Tree
+/m/01c8br,63,Street
+/m/083vt,57,Wood
+/m/0199g,52,Bicycle
+/m/02csf,48,Drawing
+/m/05wrt,47,Property
+/m/0jjw,45,Art
+/m/0jyfg,42,Glasses
+/m/07bsy,41,Transport
+/m/0180xr,38,Neighbourhood
+/m/06ts_6,33,Shopkeeper
+/m/07yv9,33,Vehicle
+/m/04szw,32,Musical instrument
+/m/09rgp,30,Road bicycle
+/m/05zdp,28,Public transport
+/m/04scj,27,Meat
+/m/07vwy6,27,Street art
+/m/0k5j,25,Aircraft
+/m/0263lr1,25,Crop
+/m/03jm5,24,House
+/m/03p2h9,22,Hybrid bicycle
+/m/01nblt,21,Apartment
+/m/0vlys,16,Tower block
+/m/01yrx,16,Cat
+/m/05qdh,15,Painting
+/m/0brn2d,15,Field
+/m/08t9c_,14,Grass
+/m/0342h,14,Guitar
+/m/026wh99,13,Attalea speciosa
+/m/09p3jz,13,Curb
+/m/0dx1j,12,Town
+/m/018w8,12,Basketball
+/m/034wh,11,Graffiti
+/m/0_mjp,11,Mountain bike
+/m/0pgl9,10,Tourist attraction
+/m/02n7rn,10,Paddy field
+/m/0gl2ny2,10,Football player
+/m/09jwl,9,Musician
+/m/01vxzc,9,Cash crop
+/m/05v1q7,9,Red meat
+/m/03ljvf,9,Grove
+/m/01d74z,9,Night
+/m/05hg54,8,Commercial building
+/m/0l7_8,8,Floor
+/m/0frq6,8,Pork
+/m/017ftj,8,Sunglasses
+/m/09cjl,8,Airport
+/m/0335j,7,Freeway
+/m/02sgy,7,Electric guitar
+/m/0dnhy,7,Sidewalk
+/m/035y33,7,Official
+/m/06z37_,7,Picture frame
+/m/03fp41,7,Houseplant
+/m/07glzq,7,Sketch
+/m/0k4j,6,Car
+/m/01xxtm,6,Frozen food
+/m/02vx4,6,Soccer
+/m/0jbk,6,Animal
+/m/03nfmq,6,Architecture
+/m/012c9l,6,Domestic short-haired cat
+/m/01lwf0,6,Alley
+/m/018xm,6,Ball
+/m/09qqq,6,Wall
+/m/01hcps,5,Lamb and mutton
+/m/01bjv,5,Bus
+/m/0crtnw,5,Executive car
+/m/05sxvp,5,Sports sedan
+/m/0166ls,5,Park
+/m/0g8p9,5,Farm
+/m/06gfj,5,Road
+/m/018vs,5,Bass guitar
+/m/026y56,5,Brutalist architecture
+/m/0c9ph5,5,Flower
+/m/02mgm6,5,Shoulder
+/m/0369ss,5,City car
+/m/042v_gx,4,Acoustic guitar
+/m/03bm6,4,Gardener
+/m/0kpbc,4,Aerospace manufacturer
+/m/015z8s,4,Airbus a320 family
+/m/017r8p,4,Pedestrian
+/m/04_sv,4,Motorcycle
+/m/033rq4,4,Street light
+/m/01jpn4,4,Grocery store
+/m/0hhdb,4,Shopping
+/m/0djtd,4,Coconut
+/m/0fm3zh,4,Flowerpot
+/m/03txxp,4,Subcompact car
+/m/01l7t2,4,Downtown
+/m/01gd91,4,Pasture
+/m/02rcwpb,4,Malayan cat
+/m/07s6nbt,4,Text
+/m/02fbcn,4,Bartender
+/m/013_1c,4,Statue
+/m/0971v,4,Beef
+/m/05zdsq,4,Desert Palm
+/m/025s8bs,4,Shopping mall
+/m/0crjs,3,Convenience store
+/m/045jsc,3,Minibus
+/m/0g6b5,3,Fireworks
+/m/02w11w8,3,Tour bus service
+/m/03q5fj,3,Teacup
+/m/0j_s4,3,Metropolitan area
+/m/09b5t,3,Chicken
+/m/02crq1,3,Couch
+/m/0cxn2,3,Ice cream
+/m/039v1,3,Guitarist
+/m/06hyd,3,Roof
+/m/0dmq2,3,Scooter
+/m/01cmcs,3,Hatchback
+/m/021s_r,3,Convenience food
+/m/08854,3,Yacht
+/m/047lggt,3,Boeing 737 next generation
+/m/01f43,3,Beauty
+/m/09t49,3,Leaf
+/m/0138tl,3,Toy
+/m/015r61,3,Modern art
+/m/0f25w9,3,Chicken meat
+/m/06rrc,3,Shoe
+/m/07txbq,3,Light aircraft
+/m/0539n0,3,Compact sport utility vehicle
+/m/0pg52,3,Taxi
+/m/0cfzkp,3,Compact mpv
+/m/019sc,3,Black
+/m/03hrb5,3,Racing bicycle
+/m/0215n,3,Cartoon
+/m/01lynh,3,Stairs
+/m/05ws7,3,Police
+/m/0ckljz,3,Sweet grass
+/m/03bt1gh,3,Games
+/m/0bl0l,3,Garden
+/m/06ntj,3,Sports
+/m/07jb1c,3,Security lighting
+/m/0dnkv,3,Supermarket
+/m/02wbm,3,Food
+/m/04tdh,3,Marble
+/m/0215_s,2,Hot hatch
+/m/025s3q0,2,Landscape
+/m/081hv,2,Wedding
+/m/049_3v,2,Yard
+/m/02hnl,2,Drums
+/m/02jxn5,2,Parking lot
+/m/06fvc,2,Red
+/m/018dz0,2,Salami
+/m/05h0n,2,Nature
+/m/034z7h,2,Cityscape
+/m/01xq0k1,2,Cattle
+/m/0cgh4,2,Building
+/m/0cz_0,2,Highway
+/m/02prwx,2,Bazaar
+/m/01fklc,2,Pink
+/m/0cb0xm,2,Passenger
+/m/03pty,2,Hotel
+/m/09q2t,2,Brown
+/m/018rqw,2,Wide-body aircraft
+/m/01n32,2,City
+/m/099fz,2,Sand
+/m/0191_7,2,Retail
+/m/01t2ln,2,Police officer
+/m/02_vjy,2,Wallet
+/m/020m7t,2,Ball game
+/m/06m11,2,Rose
+/m/09x3lm,2,Junction
+/m/01f4td,2,Rural area
+/m/0204fg,2,Skyline
+/m/01r546,2,Earrings
+/m/02cwm,2,Design
+/m/015y8h,2,Jet aircraft
+/m/06qqb,2,Steel
+/m/0py27,2,Train station
+/m/02c3nd,2,Indoor soccer
+/m/0f4s2w,2,Vegetable
+/m/01h6rj,2,Military
+/m/0fpjlj9,2,Garden roses
+/m/099md,2,Soldier
+/m/015qff,2,Traffic light
+/m/0k1tl,2,Pen
+/m/05r5c,2,Piano
+/m/034v6m,2,Gardenia
+/m/04fyb1,2,Sirloin steak
+/m/06npx,2,Sea
+/m/0dzct,2,Human face
+/m/04bcr3,2,Table
+/m/06cd7,2,Rosemary
+/m/01sgl,2,Cycling
+/m/03xnm0,2,Bangle
+/m/039jbq,2,Urban area
+/m/03hr1p,2,Road cycling
+/m/05wy2,2,Gasoline
+/m/01v327,2,Lawn
+/m/027_ny3,2,Still life photography
+/m/04qgp,2,Liqueur
+/m/083mg,2,Walking
+/m/0mcn4,2,Succulent plant
+/m/0271t,2,Drink
+/m/07jdr,2,Train
+/m/012qyb,2,Barber
+/m/05t0y8q,2,Goat meat
+/m/079cl,2,Skyscraper
+/m/083jv,2,White
+/m/01g5v,2,Blue
+/m/057gn,2,Minivan
+/m/083p6f,2,Supermini
+/m/02522,2,Computer monitor
+/m/07bgp,2,Sheep
+/m/02qd_7,2,Clock tower
+/m/0176mf,2,Belt
+/m/04rlf,2,Music
+/m/07z2l,2,Veal
+/m/09j2d,2,Clothing
+/m/01mzpv,2,Chair
+/m/0gm3m,2,Filling station
+/m/016vv0,2,Notebook
+/m/0jt2t3g,2,Arabian mau
+/m/051rmm,2,Steeple
+/m/0d4v4,2,Window
+/m/01nz0z,2,Bar
+/m/0dlk0vw,2,Floribunda
+/m/025sk5n,1,Tin
+/m/01vmzn,1,Drumhead
+/m/01x_v,1,Camel
+/m/03c79,1,Gate
+/m/0fly7,1,Jeans
+/m/0n5v01m,1,Bag
+/m/0m0gc,1,Date palm
+/m/0hjzp,1,Kitten
+/m/03vt0,1,Insect
+/m/03ldnb,1,Ceiling fan
+/m/01knjb,1,Billboard
+/m/0qjjc,1,Remote control
+/m/0gqbt,1,Shrub
+/m/015x4r,1,Cucumber
+/m/0fszt,1,Cake
+/m/0289j0,1,Straight pool
+/m/018tkd,1,Service
+/m/01d2_z,1,Wind turbine
+/m/0838f,1,Water
+/m/01p58g,1,English billiards
+/m/0hlzc,1,Evergreen
+/m/037vsg,1,Prosciutto
+/m/05z87,1,Plastic
+/m/021sj1,1,Office building
+/m/0pd7,1,Army
+/m/0g9vs81,1,Steamed rice
+/m/04k84,1,Light
+/m/0mcqy,1,Tom-tom drum
+/m/030zsj,1,Pastrami
+/m/09759,1,Rice
+/m/09sdbh,1,Luxury yacht
+/m/0b_rs,1,Swimming pool
+/m/02jwqh,1,Vacation
+/m/06y_bg,1,Hindu temple
+/m/03hs6w,1,Cyclo-cross bicycle
+/m/03vd46,1,Herd
+/m/09j9h,1,Engineer
+/m/03qtwd,1,Crowd
+/m/01ft5b,1,Kindergarten
+/m/02r6fj,1,Saw palmetto
+/m/09qck,1,Banana
+/m/021w6f,1,Tile
+/m/057_14,1,Sabal minor
+/m/02y_51m,1,Tidal marsh
+/m/02hlnc,1,Chocolate brownie
+/m/0cvq3,1,Pickup truck
+/m/0643t,1,Personal computer
+/m/09g5pq,1,People
+/m/02w3_2,1,Formal wear
+/m/09kjlm,1,Sneakers
+/m/0zvk5,1,Helmet
+/m/0g4fr,1,Papaya
+/m/0c2wf,1,Typewriter
+/m/0329yh,1,Basketball court
+/m/09j5n,1,Footwear
+/m/0j2hg,1,Botanical garden
+/m/03rnh,1,Industry
+/m/09j1x,1,Undergarment
+/m/0bt_c3,1,Book
+/m/02v7zy,1,Canadian fir
+/m/03gfsp,1,Ceiling
+/m/018ktp,1,Watercolor paint
+/m/0gl3jh5,1,Turkey meat
+/m/07l5g,1,Turbine
+/m/0118n_9r,1,Water bottle
+/m/05fb3q6,1,Networking cables
+/m/07y04d,1,Night-blooming cactus
+/m/02_41,1,Fire
+/m/038hg,1,Green
+/m/037tzr,1,Agave azul
+/m/0lqk,1,Alcohol
+/m/0195fx,1,Metro
+/m/05f9npt,1,Acanthocereus tetragonus
+/m/04hyxm,1,Classroom
+/m/02t2zd,1,Cobblestone
+/m/03zdh1,1,Frangipani
+/m/0hnnb,1,Umbrella
+/m/026t6,1,Drum
+/m/07k9y2b,1,Freshwater marsh
+/m/037rzs,1,Headquarters
+/m/026bk,1,Dance
+/m/039jq,1,Glass
+/m/0b9k6q,1,Ribs
+/m/0p833,1,Perfume
+/m/0l14j_,1,Flute
+/m/0gjkl,1,Watch
+/m/0403lcy,1,Netbook
+/m/01dl3j,1,Banknote
+/m/01mwkf,1,Monochrome
+/m/0m9cj,1,Banner
+/m/05kq4,1,Ocean
+/m/01j0mk,1,Customer
+/m/025dyy,1,Box
+/m/06wqb,1,Space
+/m/01cbzq,1,Rock
+/m/082bv,1,Whisky
+/m/04shl0,1,Distilled beverage
+/m/0ch_cf,1,Fish
+/m/09bgkl,1,Outlet store
+/m/013s93,1,T-shirt
+/m/020fb2,1,Coffeehouse
+/m/047rwq3,1,Centrepiece
+/m/01x3z,1,Clock
+/m/0cyhj_,1,Orange
+/m/0hpnr,1,Hospital
+/m/0cdn1,1,Hamburger
+/m/0dqb5,1,Citrus
+/m/09ct_,1,Helicopter
+/m/0hr1s_w,1,Curry
+/m/014v7p,1,Zebra crossing
+/m/02dx0,1,Durian
+/m/03w9fb9,1,Crab meat
+/m/03vcw7,1,Dairy cow
+/m/063w2,1,Pencil
+/m/02054x,1,Citron
+/m/09gg3,1,Violet
+/m/0h1bv8c,1,Chocolate ice cream
+/m/02x984l,1,Mechanical fan
+/m/0sx_x,1,Fen
+/m/06tn4,1,Snooker
+/m/016br2,1,Dome
+/m/0j6m2,1,Stream
+/m/01y9k5,1,Desk
+/m/044l90,1,Marching percussion
+/m/01wb7,1,Church
+/m/02500f,1,Overpass
+/m/057cc,1,Musical keyboard
+/m/05t4q,1,Physician
+/m/0269r2s,1,Chain
+/m/0fg019,1,Eye liner
+/m/03bbps,1,Power plugs and sockets
+/m/01l0mw,1,Home
+/m/02vyr27,1,Christmas Orchid
+/m/0153bq,1,Mascot
+/m/07s11x,1,Charcuterie
+/m/0cpk7,1,Incandescent light bulb
+/m/02yjc,1,Fighter aircraft
+/m/0jtt9,1,Chili pepper
+/m/05b97g,1,Sticker
+/m/0blz9,1,Fence
+/m/04dr76w,1,Bottle
+/m/016x44,1,Spruce
+/m/03m9d0z,1,Wind
+/m/0g4q3r,1,Spare ribs
+/m/04h8sr,1,Dumbbell
+/m/0cvnqh,1,Bench
+/m/018j2,1,Banjo
+/m/0g54v5d,1,Military vehicle
+/m/0hl6y,1,Vine
+/m/04c9vm,1,Capicola
+/m/01jp76,1,Parking
+/m/09_rtk,1,Water tank
+/m/01llwg,1,Necklace
+/m/046glt,1,Electrical wiring
+/m/01s56h,1,Slip-on shoe
+/m/026w19n,1,Cruiser
+/m/0btp2,1,Traffic
+/m/0g4cd0,1,Tabby cat
+/m/014jg3,1,Training
+/m/01q7l,1,Currency
+/m/012ndj,1,Fire apparatus
+/m/0641k,1,Paper
+/m/08q1xp,1,Office chair
+/m/0bx_y3w,1,Television set
+/m/01xsb3,1,Classic car
+/m/02qjv,1,Electronic musical instrument
+/m/01w5q5,1,Arabian camel
+/m/0bmz2,1,Cable
+/m/01c648,1,Laptop
+/m/0_ch6,1,Convent
+/m/025sf8x,1,Silver
+/m/025sfw,1,Shortleaf black spruce
+/m/03r1s9,1,Paneer
+/m/0gl3_vx,1,Ostrich meat
+/m/04lzmz,1,Strap
+/m/0mfnf,1,Noodle
+/m/04v6l4,1,Frying pan
+/m/06d_3,1,Railway
+/m/02jspn,1,Moth Orchid
+/m/026z81p,1,Salumi
+/m/03q5c7,1,Saucer
+/m/025dq0,1,Sari
+/m/0cmx8,1,Spoon
+/m/03lnq3,1,Keychain
+/m/07pb77,1,Duck meat
+/m/01lsmm,1,Scissors
+/m/09w9qp,1,Pipe
+/m/01w53b,1,Take-out food
+/m/0dp7vs,1,Narrow-body aircraft
+/m/0fmnf5,1,Compact van
+/m/0xm0m9r,1,Chevrolet
+/m/09lbv,1,Drummer
+/m/0j_5b,1,Monoplane
+/m/011yvr,1,Plantation
+/m/0h5y1j0,1,Toyota
+/m/0464z4,1,Pack animal
+/m/0h2r6,1,Van
+/m/096mb,1,Lion
+/m/05zp8,1,Palace
+/m/01515d,1,Flight
+/m/01lqfm,1,Public space
+/m/0ck43n,1,Storage tank
+/m/03ty65,1,Chinese architecture
+/m/0bqzm_,1,Hybrid tea rose
+/m/0dz0lt,1,Tyrolean speck
+/m/0dkw5,1,Machine
+/m/01www,1,CD
+/m/0692dn,1,Silvertip fir
+/m/0k8hs,1,Domestic long-haired cat
+/m/01m2v,1,Computer keyboard
+/m/0cd3bj,1,Chain-link fencing
+/m/02dlh2,1,Conga
+/m/038t8_,1,Estate
+/m/049h0m,1,Fishing net
+/m/068zj,1,Pig
+/m/0pvlz,1,Wetland
+/m/01z1kdw,1,Juice
+/m/0qf0c,1,Buffalo wing
+/m/03mr6,1,Hockey
+/m/01jm2n,1,Walkway
+/m/015c4z,1,Sitting
+/m/01vk9q,1,Track
+/m/02jl78,1,Ford transit
+/m/01n5jq,1,Poster
+/m/03hh2k,1,Grazing
+/m/06rvn,1,Snare drum
+/m/04c41_,1,European shorthair
+/m/030czg,1,Jet bridge
+/m/01n8m6,1,Salt marsh
+/m/04t7l,1,Metal
+/m/09hlfz,1,Helicopter rotor
+/m/04_xn,1,Mosque
+/m/0f5zw,1,Fairy
+/m/04rd7,1,Mural
+/m/07_gml,1,Working animal
+/m/044_87,1,Output device
+/m/03z1rt,1,Hangar
+/m/0swpk6b,1,Rickshaw
+/m/023kp2,1,Paw
+/m/0dvvc,1,Desktop computer
+/m/0kdzn,1,Sausage
+/m/02k_k3t,1,Ford
+/m/02vzx9,1,Player
+/m/01zfyk,1,Bucket
+/m/0kmg4,1,Teddy bear
+/m/050gv4,1,Plate
+/m/01d30f,1,Teacher
+/m/03jn61,1,Morning glory
+/m/03v3yw,1,Key
+/m/022pgh,1,Electric locomotive
+/m/01dwwc,1,Pancake
+/m/06wtgq,1,Play
+/m/04f76q7,1,Chevrolet cruze
+/m/02yhp1,1,San Pedro cactus
+/m/0ytgt,1,Child
+/m/0lyyx,1,Radio-controlled car
+/m/020vl,1,Chocolate
+/m/05229,1,Musical ensemble
+/m/0dv5r,1,Camera
+/m/04h4w,1,Lake
+/m/01c7cq,1,Grassland
+/m/049dpf,1,Ojos azules
+/m/016rh7,1,Spinach
+/m/0583c6,1,Colorado spruce
+/m/05y4t,1,Paint
