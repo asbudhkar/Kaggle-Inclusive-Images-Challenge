@@ -1,7 +1,6 @@
 # Code to clean data and collect 20K images
 
 
-
 #!/anaconda3/bin/python
 
 import time
@@ -57,25 +56,16 @@ def get_labels_images_train():
         print(len(train_human_200labels_dict))
 
     else:
-
         train_human_200labels_dict=  {}
-
         print('Creating a new pickle file...')
-
         #For each unique imageID, make a label dict
 
         for id in train_human_labels['ImageID'].unique():
                 if id in total_human_labels_dict.keys():
                     train_human_200labels_dict[id] = []
-
                     for label in total_human_labels_dict[id]:
-                       
                         if label in labels_200_values:
-
                             train_human_200labels_dict[id].append(label)
-
-                    
-
                    
         train_human_200labels_dict = dict( [(k,v) for k,v in
                                             train_human_200labels_dict.items() if len(v)>0])
@@ -106,14 +96,11 @@ def get_labels_images_test():
     test_labels = pd.read_csv(constants.TUNING_LABELS,
                               names=['ImageID','label_codes'])
                               
-    #Choose the test tuning labels that are in labels_to_use
+    # Choose the test tuning labels that are in labels_to_use
 
-    test_labels['label_codes'] =(test_labels['label_codes']).map(lambda x:\
+    test_labels['label_codes'] =(test_labels['label_codes']).map(lambda x:x.split())
 
-                                                                 x.split())
-
-    test_tuning_200labels =\
-    os.path.join(constants.INPUT_DIR,'test_tuning_200labels_dict.pickle')
+    test_tuning_200labels = os.path.join(constants.INPUT_DIR,'test_tuning_200labels_dict.pickle')
 
     if os.path.exists(test_tuning_200labels):
         print('Test_tuning pickle file already exists')
@@ -129,12 +116,10 @@ def get_labels_images_test():
                            'label_codes')).issubset(labels_200_df['label_code']\
 
                                                     .tolist()):
-                test_tuning_200labels_dict[getattr(row, 'ImageID')] = \
-                        getattr(row, 'label_codes')
+                test_tuning_200labels_dict[getattr(row, 'ImageID')] = getattr(row, 'label_codes')
 
         with open('test_tuning_200labels_dict.pickle', 'wb') as handle:
-            pickle.dump(test_tuning_200labels_dict, handle,\
-                       protocol=pickle.HIGHEST_PROTOCOL)
+            pickle.dump(test_tuning_200labels_dict, handle,protocol=pickle.HIGHEST_PROTOCOL)
 
         print('Test Pickling complete.')
         print(len(test_tuning_200labels_dict)) 
