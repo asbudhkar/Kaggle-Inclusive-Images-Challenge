@@ -33,7 +33,7 @@ sbatch run_ResNet.sh
 ## Training without HPC
 python ResNet_train.py
 
-## Data geneartion for training
+## Data cleaning for training
 cd data_cleaning  
 python prepare_data.py  
 python weighted_sampling.py  
