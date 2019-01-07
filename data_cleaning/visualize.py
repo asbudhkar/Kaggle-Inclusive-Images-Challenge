@@ -1,7 +1,5 @@
 # Create subsets of the original data to 20k and 60k images
 
-
-
 #!/anaconda3/bin/python
 
 import numpy as np
