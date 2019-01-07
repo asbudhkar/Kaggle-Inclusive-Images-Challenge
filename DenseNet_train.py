@@ -27,7 +27,7 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 # DenseNet model
-from dense_net import *
+from ./models/dense_net import *
 
 # Train images directory
 images_dir_name = './train'
